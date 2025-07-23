@@ -1,0 +1,8 @@
+a {
+  text-decoration: none;
+  font-size: xx-large;
+  font-weight: 700;
+}
+button:hover {
+  background-color: red;
+}
